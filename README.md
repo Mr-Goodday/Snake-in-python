@@ -8,8 +8,8 @@ I did this project to start learning Python :)
 2. [Technologies Used](#technologies-used)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+5. [License](#license)
+6. [Contact](#contact)
 
 ## General Info
 
@@ -40,10 +40,6 @@ Open a terminal or command prompt. Navigate to the directory where the main.py f
 ## Usage
 
 Download, turn on and play.
-
-## Contributing
-
-Information for those who want to contribute to the project. This could include directions for how to contribute, guidelines for creating branches and pull requests, etc.
 
 ## License
 
