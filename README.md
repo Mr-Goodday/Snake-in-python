@@ -30,6 +30,7 @@ Make sure you have the following Python libraries installed:
   You can install these libraries using pip by executing the commands below in the terminal:
 
     pip install pygame
+    
     pip install tk
 
 Running the code:
