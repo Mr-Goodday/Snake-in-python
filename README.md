@@ -22,20 +22,20 @@ Python 3.12.2
 ## Installation
 
 Install required libraries:
-  Make sure you have the following Python libraries installed:
+Make sure you have the following Python libraries installed:
 
-    - pygame
-    - tkinter
+  - pygame
+  - tkinter
 
   You can install these libraries using pip by executing the commands below in the terminal:
 
-    - pip install pygame
-    - pip install tk
+    pip install pygame
+    pip install tk
 
 Running the code:
-  Open a terminal or command prompt. Navigate to the directory where the main.py file is located. Run the script with the command:
+Open a terminal or command prompt. Navigate to the directory where the main.py file is located. Run the script with the command:
 
-    - pythonmain.py
+    python main.py
 
 ## Usage
 
